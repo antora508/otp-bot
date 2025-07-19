@@ -1,2 +1,2 @@
-# otp-bot
-A Telegram bot that fetches OTPs from IVASMS and displays them
+# OTP Bot
+Fetches OTPs from IVASMS and displays them via Telegram.
